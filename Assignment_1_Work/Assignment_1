@@ -6,17 +6,24 @@ Created on Thu Jan 12 11:42:24 2023
 @author: anthonysantiago
 """
 
-# Magic_trick = 5
+# 
+Magic_trick = 5
 
-# Magic_trick * 2
+# 
+Magic_trick * 2
 
-# (Magic_trick * 2) + 5
+# 
+(Magic_trick * 2) + 5
 
-# ((Magic_trick * 2) + 5) * 50
+# 
+((Magic_trick * 2) + 5) * 50
 
-#(((Magic_trick * 2) + 5) * 50) + 1749
+#
+(((Magic_trick * 2) + 5) * 50) + 1749
 
-# ((((Magic_trick * 2) + 5) * 50) + 1749) + 23
+# 
+((((Magic_trick * 2) + 5) * 50) + 1749) + 23
 
-# (((((Magic_trick * 2) + 5) * 50) + 1749) + 23) - 1998
+#
+(((((Magic_trick * 2) + 5) * 50) + 1749) + 23) - 1998
 
