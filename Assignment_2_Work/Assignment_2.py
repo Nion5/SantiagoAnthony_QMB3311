@@ -16,6 +16,7 @@
 ##################################################
 """
 
+# Changed the name of the file from my_functions.py to "Assignment_2.py"
 
 ##################################################
 # Import Required Modules
@@ -38,8 +39,11 @@ def present_value(cash_flow: float, interest_rate: float, num_yrs: float) -> flo
     100.0
     >>> present_value(121, 0.10, 2)
     100.0
-    >>> next example goes here
+    >>> next example goes here 
     """
+    
+    # Missing a third example here
+    
     answer = round(cash_flow/(1+interest_rate)**num_yrs,2)
 
     return answer
@@ -91,7 +95,7 @@ def Total_cost(units_produced: float, fixed_cost: float, constant: float) -> flo
      >>> Total_cost(90,20,5.00)
      40520
      """
-    answer = round(constant*units_produced**2+fixed_cost,2)
+    answer = round(constant*units_produced**2+fixed_cost,2) # Might want to be careful, you could get confused with the order of operations here
 
     return answer
 
