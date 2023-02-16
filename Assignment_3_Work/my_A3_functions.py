@@ -4,9 +4,9 @@
 #
 # QMB 3311: Python for Business Analytics
 #
-# Name: 
+# Name: Anthony Santiago 
 #
-# Date:
+# Date: 02/12/23
 # 
 ##################################################
 #
